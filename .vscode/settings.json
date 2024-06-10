@@ -1,0 +1,8 @@
+{
+    "editor.wordWrap": "bounded",
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.indentSize": "tabSize",
+    "dart.lineLength": 80
+}
